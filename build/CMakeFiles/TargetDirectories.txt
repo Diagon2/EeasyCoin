@@ -1,0 +1,6 @@
+/home/levi/Desktop/Test/cryptonotewallet/build/CMakeFiles/rebuild_cache.dir
+/home/levi/Desktop/Test/cryptonotewallet/build/CMakeFiles/edit_cache.dir
+/home/levi/Desktop/Test/cryptonotewallet/build/CMakeFiles/easycoin.dir
+/home/levi/Desktop/Test/cryptonotewallet/build/CMakeFiles/cryptonote.dir
+/home/levi/Desktop/Test/cryptonotewallet/build/CMakeFiles/easycoin_automoc.dir
+/home/levi/Desktop/Test/cryptonotewallet/build/CMakeFiles/cryptonote_automoc.dir
